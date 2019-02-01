@@ -1,0 +1,10 @@
+.btn {
+  font-weight: var(--font-weight, 200);
+  font-size: var(--font-size, 24px);
+  background-color: var(--background-color, indianred);
+  border: 0;
+  border-radius: 5px;
+  color: var(--color, #fff);
+  padding: var(--padding, 10px);
+  text-transform: uppercase;
+}
